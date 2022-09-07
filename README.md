@@ -71,8 +71,8 @@ We provide more details below for each AI solution accelerator and its intended 
 <br/><br/>
 <br/>
 
-# Support in Client Engagements
-## AI Specialized CSA Assistance
+
+# AI Specialized CSA Assistance in Client Engagements
 
 If help is needed with any of the solution accelerators for in the context of a customer engagement, please submit a formal request for AI Specialized CSA assistance by filling in this [form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5Newawiq3FBtVxPKfz0zCNUQkxVWFYwQ0xBUjUzMk5YSVBPWkdNVzUyRC4u). Please visit the AI Rangers team [webpage](aka.ms/AIRangers) at [aka.ms/AIRangers](aka.ms/AIRangers) for more information.
 
