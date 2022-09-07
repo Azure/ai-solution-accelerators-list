@@ -111,5 +111,5 @@ If help is needed with any of the solution accelerators for in the context of a 
 <br/><br/><br/>
 
 
-<div style="text-align:center">
-<img src="imgs/ai.png" width="9%"></div>
+<p align="center">
+<img src="imgs/ai.png" width="9%"></p>
