@@ -92,24 +92,24 @@ If help is needed with any of the solution accelerators for in the context of a 
 # Instruction Video for Tagging Solution Accelerators in MSX Tracking Tool 
 <br/><br/>
 
-<!---
-
-[ <div style="text-align:center"><img src="imgs/vid.jpg" width="50%"></div>](https://microsoft.sharepoint.com/teams/CSUDataAI/Shared%20Documents/Region%20Communication/Solution%20Accelerators/Tracking%20Solution%20Accelerators%20usage%20in%20MSX-20220211_191415-Meeting%20Recording.mp4?web=1 "Tag Solution Accelerators in MSX Tracking Tool")
 
 
+[ <div style="text-align:center"><img src="imgs/vid.jpg" width="80%"></div>](https://microsoft.sharepoint.com/teams/CSUDataAI/Shared%20Documents/Region%20Communication/Solution%20Accelerators/Tracking%20Solution%20Accelerators%20usage%20in%20MSX-20220211_191415-Meeting%20Recording.mp4?web=1 "Tag Solution Accelerators in MSX Tracking Tool")
 
-[ <div style="text-align:center"><img src="imgs/vid.jpg" width="50%"></div>](imgs/vid.mp4 "Tag Solution Accelerators in MSX Tracking Tool")
 
--->
+<!--
+[ <div style="text-align:center"><img src="imgs/vid.mp4" width="50%"></div>](imgs/vid.jpg "Tag Solution Accelerators in MSX Tracking Tool")
+
+
 
 <div style="text-align:center">
 <video width="640" height="480" controls>
   <source src="imgs/vid.mp4" type="video/mp4">
 </video>
 </div>
-
+-->
 <br/><br/><br/>
 
 
 
-[<div style="text-align:center"><img src="imgs/ai.png" width="8%"></div>]()
+<div style="text-align:center"><img src="imgs/ai.png" width="9%"></div>
