@@ -112,4 +112,4 @@ If help is needed with any of the solution accelerators for in the context of a 
 
 
 
-[ <div style="text-align:center"><img src="imgs/ai.png" width="8%"></div>]()
+[<div style="text-align:center"><img src="imgs/ai.png" width="8%"></div>]()
