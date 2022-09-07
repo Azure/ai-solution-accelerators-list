@@ -1,6 +1,6 @@
 
 
-![alt text](imgs/acc.png "Title")
+![alt text](imgs/acc.jpg "Title")
 
 <br/>
 <br/>
