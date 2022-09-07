@@ -90,7 +90,9 @@ If help is needed with any of the solution accelerators for in the context of a 
 
 <br/><br/>
 # Instruction Video for Tagging Solution Accelerators in MSX Tracking Tool 
-<br/><br/>
+<br/>
+
+Below is a 2-minute instruction video on how to tag opportunity in MSX:
 
 <div style="text-align:center">
 
@@ -99,16 +101,38 @@ If help is needed with any of the solution accelerators for in the context of a 
 </div>
 <!--
 [ <div style="text-align:center"><img src="imgs/vid.mp4" width="50%"></div>](imgs/vid.jpg "Tag Solution Accelerators in MSX Tracking Tool")
-
-
-
 <div style="text-align:center">
 <video width="640" height="480" controls>
   <source src="imgs/vid.mp4" type="video/mp4">
 </video>
 </div>
 -->
+
+
+<br/>
+The below are the "Sales Program" codes for the accelerators to be used when tagging in MSX:
+<br/><br/>
+
+| Name      | MSX Sales Program Code |
+| ----------- | ----------- | 
+| Many Models Solution Accelerator      |  Solution Accelerator \| Azure AI Many Models
+| Data and Model Drift Detection | TBD
+| Knowledge Mining Solution Accelerator | Solution Accelerator \| Azure Data & AI Knowledge Mining
+| Business Process Automation | Solution Accelerator \| Azure Business Process Automation
+| Social Media Analytics | Solution Accelerator \| Azure Social Media Analytics Solution Accelerator
+| Medical Imaging | Solution Accelerator \| Azure AI Medical Imaging with Azure ML
+| Retail Recommender |  Solution Accelerator \| Azure Data & AI Retail Recommender
+| Commodity Price Prediction | Solution Accelerator \| Azure Data & AI Commodity Price Prediction
+| MLOps v2 |  Solution Accelerator \| MLOps V2 Solution Accelerator
+
 <br/><br/><br/>
+
+
+
+
+
+
+
 
 
 <p align="center">
