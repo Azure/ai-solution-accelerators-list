@@ -5,18 +5,13 @@
 <br/>
 <br/>
 
-**Important Notice - MSX Tracking Tool for Solution Accelerators Available Now**
->
-> **Please tag Solution Accelerators in MSX when you use them with engagements. For instructions on how to tag Solution Accelerators, check out this [video](https://microsoft.sharepoint.com/teams/CSUDataAI/Shared%20Documents/Region%20Communication/Solution%20Accelerators/Tracking%20Solution%20Accelerators%20usage%20in%20MSX-20220211_191415-Meeting%20Recording.mp4?web=1). Tags are mainly used to gauge interest and keep the accelerators alive and growing.**
 
-<br/>
-<br/>
 
 
 
 # AI Solution Accelerators
 
-Developed by the [AI Rangers Team](aka.ms/AIRangers), the AI Solution Accelerators are repeatable IP meant to provide developers with all the resources needed to quickly build an initial solution. The objective is to jump-start the development efforts and to learn the used technologies in as little time as possible. The AI Solution Accelerators should be considered as templates that are fully customizable to the user's unique business case. 
+Developed by the Microsoft AI Rangers Team, the AI Solution Accelerators are repeatable IP meant to provide developers with all the resources needed to quickly build an initial solution. The objective is to jump-start the development efforts and to learn the used technologies in as little time as possible. The AI Solution Accelerators should be considered as templates that are fully customizable to the user's unique business case. 
 
 These accelerators can be deployed on the Azure platform. Visit the official [Azure AI webpage](https://azure.microsoft.com/en-us/overview/ai-platform/) to learn more about Azure AI solution offerings.
 
@@ -72,58 +67,10 @@ We provide more details below for each AI solution accelerator and its intended 
 <br/>
 
 
-# AI Specialized CSA Assistance in Client Engagements
-
-If help is needed with any of the solution accelerators for in the context of a customer engagement, please submit a formal request for AI Specialized CSA assistance by filling in this [form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5Newawiq3FBtVxPKfz0zCNUQkxVWFYwQ0xBUjUzMk5YSVBPWkdNVzUyRC4u). Please visit the AI Rangers team [webpage](aka.ms/AIRangers) at [aka.ms/AIRangers](aka.ms/AIRangers) for more information.
-
-<br/><br/>
-
-# More Information
-
-- AI Rangers Team webpage [aka.ms/AIRangers](aka.ms/AIRangers) 
-- AI Specliazed CSA Overview (AI Rangers Team) [Presentation](https://microsoft.sharepoint.com/:b:/t/CSUHQ-DataAITeam/EbmzwwVTlL5DlY-LCXATCHkBP5vkJ-Bpxvz1o6C-Ds454g)
-- AI Specialized CSA Highlighted Engagements (AI Rangers Team) [Presentation](https://microsoft.sharepoint.com/:b:/t/CSUAIRangers/EWH_bfc2XIJIvh3RliGHo1UBpHkNkexPNjRoTUyNuQupzQ?e=n5YiKS)
-- Solution Accelerators in Action [webpage](https://microsoft.sharepoint.com/teams/EA/SitePages/Solution-Accelerators.aspx)
-- Currently Nominated Use Cases for Accelerators [Teams Channel](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fentity%2Fa6b63365-31a4-4f43-92ec-710b71557af9%2F_djb2_msteams_prefix_2797414555%3Fcontext%3D%257B%2522subEntityId%2522%253Anull%252C%2522channelId%2522%253A%252219%253A7ffbe23d805448a891b2fda33984ea1c%2540thread.tacv2%2522%257D%26groupId%3D1d7d7479-9fa0-47c4-8d61-2e05aadf2b0b%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&data=04%7C01%7CHarmke.Alkemade%40microsoft.com%7Ce34e9ccd9e1d4bf00e4f08d9923fff6a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637701625826250550%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=PCChjbQUuycvMfrz6nWZuhqbWUM%2F4PEqnYYj5JeyL%2B0%3D&reserved=0)
-- To Nominate a New Use Case [Form](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FXtEkei7Bb3&data=04%7C01%7CHarmke.Alkemade%40microsoft.com%7Ce34e9ccd9e1d4bf00e4f08d9923fff6a%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637701625826270543%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=42XjepykICx66OARkJcGBWvnpreSQqnAU4X1TfxCve4%3D&reserved=0)
 
 
-<br/><br/>
-# Instruction Video for Tagging Solution Accelerators in MSX Tracking Tool 
-<br/>
-
-Below is a 2-minute instruction video on how to tag opportunity in MSX:
-
-<div style="text-align:center">
-
-[ <div style="text-align:center"><img src="imgs/vid.jpg" width="100%"></div>](https://microsoft.sharepoint.com/teams/CSUDataAI/Shared%20Documents/Region%20Communication/Solution%20Accelerators/Tracking%20Solution%20Accelerators%20usage%20in%20MSX-20220211_191415-Meeting%20Recording.mp4?web=1 "Tag Solution Accelerators in MSX Tracking Tool")
-
-</div>
-<!--
-[ <div style="text-align:center"><img src="imgs/vid.mp4" width="50%"></div>](imgs/vid.jpg "Tag Solution Accelerators in MSX Tracking Tool")
-<div style="text-align:center">
-<video width="640" height="480" controls>
-  <source src="imgs/vid.mp4" type="video/mp4">
-</video>
-</div>
--->
 
 
-<br/>
-The below are the "Sales Program" codes for the accelerators to be used when tagging in MSX:
-<br/><br/>
-
-| Name      | MSX Sales Program Code |
-| ----------- | ----------- | 
-| Many Models Solution Accelerator      |  Solution Accelerator \| Azure AI Many Models
-| Data and Model Drift Detection | TBD
-| Knowledge Mining Solution Accelerator | Solution Accelerator \| Azure Data & AI Knowledge Mining
-| Business Process Automation | Solution Accelerator \| Azure Business Process Automation
-| Social Media Analytics | Solution Accelerator \| Azure Social Media Analytics Solution Accelerator
-| Medical Imaging | Solution Accelerator \| Azure AI Medical Imaging with Azure ML
-| Retail Recommender |  Solution Accelerator \| Azure Data & AI Retail Recommender
-| Commodity Price Prediction | Solution Accelerator \| Azure Data & AI Commodity Price Prediction
-| MLOps v2 |  Solution Accelerator \| MLOps V2 Solution Accelerator
 
 <br/><br/><br/>
 
