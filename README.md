@@ -18,7 +18,7 @@ These accelerators can be deployed on the Azure platform. Visit the official [Az
 <br/>
 <br/>
 
-## Summary Table of AI Solution Acceslerators
+## Summary Table of AI Solution Accelerators
 Below is a summary list of the AI Solution Accelerators:
 <br/>
 <br/>
