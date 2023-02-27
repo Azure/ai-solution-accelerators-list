@@ -2,10 +2,7 @@
 
 Here you can find repeatable IP to quickly build an initial OpenAI solution.
 
-
 <br/>
-<br/>
-
 
 ## Summary Table of OpenAI Demos
 Below is a summary list of the OpenAI Demos:
