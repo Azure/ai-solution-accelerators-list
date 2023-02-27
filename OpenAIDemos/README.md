@@ -5,7 +5,7 @@ Repeatable IP to quickly build an initial Azure OpenAI solution.
 <br/>
 
 ## Summary Table
-Below is a summary list of the OpenAI Demos:
+Below is a summary list of the Azure OpenAI Demos:
 <br/>
 <br/>
 
