@@ -24,4 +24,4 @@ OTHER LINKS TO PUT ON THE TABLE:
 - OpenAI SAmple Prompts https://gist.github.com/csiebler/d137386c4a63cc34810151bcdf150d54
 
 
-**Note*: If you are a Microsoft employee and to add to this list, plesae contact the Specialized AI CSA team.*
+**Note*: If you are a Microsoft employee and would like to add an asset to this list, please contact the Specialized AI CSA team.*
