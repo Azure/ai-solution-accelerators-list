@@ -1,10 +1,10 @@
-# OpenAI Demos 
+# Azure OpenAI Accelerators and Demo Assets
 
-Here you can find repeatable IP to quickly build an initial OpenAI solution.
+Repeatable IP to quickly build an initial Azure OpenAI solution.
 
 <br/>
 
-## Summary Table of OpenAI Accelerators and Demo assets
+## Summary Table
 Below is a summary list of the OpenAI Demos:
 <br/>
 <br/>
