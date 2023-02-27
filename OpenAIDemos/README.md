@@ -26,4 +26,10 @@ We provide more details below for each OpenAI solution accelerator and its inten
 
 
 
+OTHER LINKS TO PUT ON THE TABLE:
+- https://github.com/Azure/azure-openai-workshop
+- JAMES' BUSINESS PROCESS AUTOMATION GH REPO
+- OpenAI SAmple Prompts https://gist.github.com/csiebler/d137386c4a63cc34810151bcdf150d54
+
+
 **Note*: If you are a Microsoft employee and to add to this list, plesae contact the Specialized AI CSA team.*
