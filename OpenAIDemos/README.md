@@ -1,5 +1,14 @@
-## Summary Table of OpenAI Solution Accelerators
-Below is a summary list of the OpenAI Solution Accelerators:
+# OpenAI Demos 
+
+Here you can find repeatable IP to quickly build an initial OpenAI solution.
+
+
+<br/>
+<br/>
+
+
+## Summary Table of OpenAI Demos
+Below is a summary list of the OpenAI Demos:
 <br/>
 <br/>
 
@@ -10,7 +19,7 @@ Below is a summary list of the OpenAI Solution Accelerators:
 <br/>
 <br/>
 
-## Use Cases behind the OpenAI Solution Accelerators in More Details
+## Use Cases behind the OpenAI Demos in More Details
 
 We provide more details below for each OpenAI solution accelerator and its intended use:
 <br/><br/>
