@@ -4,7 +4,7 @@ Repeatable IP to quickly build an initial Azure OpenAI solution.
 
 
 ## Summary Table
-Below is a summary list of the Azure OpenAI IP/reusable assets for Azure OpenAI:
+Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
 <br/>
 
