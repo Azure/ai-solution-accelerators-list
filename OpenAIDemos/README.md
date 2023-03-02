@@ -21,12 +21,14 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
 <br/>
 
+## OpenAI Learning Resources 
+
 Below is a summary list of learning resources:
 <br/>
 <br/>
 
-## OpenAI Learning Resources 
-<br/>
+
+
 |Description | Link   |
 |----------- | ----------- |
 | Azure OpenAI Documentation |  [Link](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
