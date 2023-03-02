@@ -1,9 +1,8 @@
 # Azure OpenAI Accelerators and Demo Assets
 
-Repeatable IP to quickly build an initial Azure OpenAI solution.
+Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution.
 
 
-## Summary Table
 Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
 <br/>
@@ -19,6 +18,9 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 
 <br/>
 <br/>
+
+Below is a summary list of learning resources: 
+
 
 
 **Note*: If you are a Microsoft employee and would like to add an asset to this list, please contact the Specialized AI CSA team.*
