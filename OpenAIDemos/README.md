@@ -20,7 +20,9 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
 <br/>
 
-Below is a summary list of learning resources: 
+Below is a summary list of learning resources:
+<br/>
+<br/>
 
 |Description | Link   |
 |----------- | ----------- |
