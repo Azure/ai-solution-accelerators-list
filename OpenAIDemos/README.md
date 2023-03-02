@@ -31,4 +31,5 @@ Below is a summary list of learning resources:
 | OpenAI Cookbook  |  [Link](https://github.com/openai/openai-cookbook)
 
 <br/>
+
 **Note*: If you are a Microsoft employee and would like to add an asset to this list, please contact the Specialized AI CSA team.*
