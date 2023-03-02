@@ -2,6 +2,7 @@
 
 Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution.
 
+<br/>
 
 Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
@@ -21,6 +22,9 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 
 Below is a summary list of learning resources: 
 
+|Description | Link   |
+|----------- | ----------- |
+| OpenAI Cookbook  |  [Link](https://github.com/openai/openai-cookbook)
 
 
 **Note*: If you are a Microsoft employee and would like to add an asset to this list, please contact the Specialized AI CSA team.*
