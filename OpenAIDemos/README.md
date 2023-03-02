@@ -26,6 +26,7 @@ Below is a summary list of learning resources:
 
 |Description | Link   |
 |----------- | ----------- |
+| Azure OpenAI Documentation |  [Link](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
 | OpenAI Cookbook  |  [Link](https://github.com/openai/openai-cookbook)
 
 
