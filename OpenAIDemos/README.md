@@ -3,7 +3,7 @@
 Repeatable IP and learning resources to quickly build an initial Azure OpenAI solution.
 
 <br/>
-##OpenAI Accelerators
+## OpenAI Accelerators
 <br/>
 Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
@@ -25,7 +25,7 @@ Below is a summary list of learning resources:
 <br/>
 <br/>
 
-##OpenAI Learning Resources 
+## OpenAI Learning Resources 
 <br/>
 |Description | Link   |
 |----------- | ----------- |
