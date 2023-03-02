@@ -7,7 +7,7 @@ Repeatable IP and learning resources to quickly build an initial Azure OpenAI so
 
 Below is a summary list of the Azure OpenAI IP/reusable assets:
 <br/>
-<br/>
+
 
 | Name      | Description   | Link   |
 | ----------- | ----------- | ----------- |
@@ -25,8 +25,6 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 
 Below is a summary list of learning resources:
 <br/>
-<br/>
-
 
 
 |Description | Link   |
