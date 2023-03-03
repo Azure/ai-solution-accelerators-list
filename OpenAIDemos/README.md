@@ -18,7 +18,7 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 | Business Process Automation solution accelerator | Creates pipelines to analyze text and audio datasets, across multiple cognitive services, and the HuggingFace library. The accelerator deploys all of the resources, and transforms the input data at each step, allowing multiple Cognitive Services to be called and deployed within a single, end-to-end pipeline. Includes capabilities like Azure OpenAI (summarization or custom prompts) and integration with CosmosDb, Cognitive Search, and RediSearch for Vector Search  | [Link](https://github.com/Azure/business-process-automation)
 | GPT3 Prompt Examples | GPT-3 examples using mostly text-davinci-003 | [Link](https://gist.github.com/csiebler/d137386c4a63cc34810151bcdf150d54)
 | Simple Chatbot using Azure OpenAI service | Step-by-step  article describing  how to create a  chatbot based on the Azure OpenAI text-davinci model.| [Link](https://github.com/michalmar/openai-demos-bot-webapp)
-|OpenAI Example Prompts |This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API.| [Link](https://github.com/jakeatmsft/AzureOpenAIExamples)
+|Azure OpenAI Example Prompts |This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API.| [Link](https://github.com/jakeatmsft/AzureOpenAIExamples)
 |Document Analysis using OpenAI GPT-3 |This repository provides a set of examples in Jupyter Notebooks/Python for performing document analysis using OpenAI's GPT-3 | [Link](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
 
 <br/>
