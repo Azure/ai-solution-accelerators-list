@@ -18,14 +18,14 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 | OpenAI in a Day | This technical workshop will provide an introduction to OpenAI and an overview of Azure OpenAI Studio. Participants will be prompted to complete engineering exercises and use OpenAI to access company data. They will also learn about embedding solution accelerators and prototyping one use case from start to finish.| [Link](https://github.com/csiebler/openai-in-a-day)
 | OpenAI Chatbot | This article will focus on how to create an effective chatbot based on the Azure OpenAI text-davinci model.| [Link](https://github.com/michalmar/openai-demos-bot-webapp)
 |OpenAI Example Prompts |This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API.| [Link](https://github.com/jakeatmsft/AzureOpenAIExamples)
-|Document Analysis using OpenAI GPT-3 |This repository provides a set of examples for performing document analysis using OpenAI's GPT-3 language model.| [Link](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
+|Document Analysis using OpenAI GPT-3 |This repository provides a set of examples in Jupyter Notebooks/Python for performing document analysis using OpenAI's GPT-3 *(note: uses OpenAI directly, not Azure OpenAI)* | [Link](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
 
 <br/>
 <br/>
 
 ## Learning Resources 
 
-Below is a summary list of learning resources:
+Below is a summary list of some learning resources:
 <br/>
 
 
