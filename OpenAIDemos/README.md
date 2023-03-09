@@ -20,7 +20,7 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 | Simple Chatbot using Azure OpenAI service | Step-by-step  article describing  how to create a  chatbot based on the Azure OpenAI text-davinci model.| [Link](https://github.com/michalmar/openai-demos-bot-webapp)
 |Azure OpenAI Example Prompts |This repository shares example code and example prompts for accomplishing common tasks with the Azure OpenAI API.| [Link](https://github.com/jakeatmsft/AzureOpenAIExamples)
 |Document Analysis using OpenAI GPT-3 |This repository provides a set of examples in Jupyter Notebooks/Python for performing document analysis using Azure OpenAI's GPT-3 | [Link](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
-
+|Azure OpenAI integration with Azure Cognitive-Search for document analysis | Azure OpenAI integration as a custom skillset in Azure Cognitive Search | [Link](https://github.com/Anaig/OpenAI-and-Cognitive-Search/)
 <br/>
 <br/>
 
