@@ -23,6 +23,7 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 |Document Analysis using OpenAI GPT-3 |This repository provides a set of examples in Jupyter Notebooks/Python for performing document analysis using Azure OpenAI's GPT-3 | [Link](https://github.com/ryubidragonfire/document-analysis-using-gpt-3)
 |Azure OpenAI integration with Azure Cognitive-Search for document analysis | Azure OpenAI integration as a custom skillset in Azure Cognitive Search | [Link](https://github.com/Anaig/OpenAI-and-Cognitive-Search/)
 |ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search | This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo), and Azure Cognitive Search for data indexing and retrieval. **NOTE: sample created by Product Group**| [Link](https://github.com/Azure-Samples/azure-search-openai-demo/)
+|GPT-Azure-Search-Engine | This repo shows how you can use Azure OpenAI + Azure Cognitive Search to have a Smart and Multilingual Search engine that not only provides links of the search results, but also answers the question. | [Link](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 <br/>
 <br/>
 
