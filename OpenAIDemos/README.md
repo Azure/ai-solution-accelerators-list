@@ -34,7 +34,7 @@ You may also want to check the [OpenAI Cookbook](https://github.com/openai/opena
 
 <br/>
 
-**NOTE**: Please make sure to check the terms of use for each. Some are only provided for demonstration purposes and not mean for as-is production us.
+**NOTE**: Please make sure to check the terms of use for each. Some are only provided for demonstration purposes and not mean for as-is production use.
 
 ## Learning Resources 
 
