@@ -24,6 +24,7 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 |ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search | This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo), and Azure Cognitive Search for data indexing and retrieval. **NOTE: sample created by Product Group**| [Link](https://github.com/Azure-Samples/azure-search-openai-demo/)
 |GPT-Azure-Search-Engine | This repo shows how you can use Azure OpenAI + Azure Cognitive Search to have a Smart and Multilingual Search engine that not only provides links of the search results, but also answers the question. | [Link](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 |Visual ChatGPT |Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. | [Link](https://github.com/microsoft/visual-chatgpt)
+|Azure Cognitive Semantic Search with OpenAI enrichment |Azure Cognitive Semantic Search that works on large documents, with OpenAI enrichment. | [Link](https://github.com/MaheshSQL/cognitive-semantic-search-openai-accelerator)
 
 <br/>
 
