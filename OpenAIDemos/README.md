@@ -25,6 +25,8 @@ Below is a summary list of the Azure OpenAI IP/reusable assets:
 |GPT-Azure-Search-Engine | This repo shows how you can use Azure OpenAI + Azure Cognitive Search to have a Smart and Multilingual Search engine that not only provides links of the search results, but also answers the question. | [Link](https://github.com/pablomarin/GPT-Azure-Search-Engine)
 |Visual ChatGPT |Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. | [Link](https://github.com/microsoft/visual-chatgpt)
 |Azure Cognitive Semantic Search with OpenAI enrichment |Azure Cognitive Semantic Search that works on large documents, with OpenAI enrichment. | [Link](https://github.com/MaheshSQL/cognitive-semantic-search-openai-accelerator)
+|Podcast Synopsis with OpenAI GPT|This repo illustrates how to use OpenAI GPT to generate a synopsis from a podcast transcription into multiple languages,
+generate 2-3 tag lines based on the podcast content and generate search engine optimised (SEO) keywords.|[Link](https://github.com/ryubidragonfire/generate-podcast-synopsis-OpenAI-GPT)
 
 
 <br/>
