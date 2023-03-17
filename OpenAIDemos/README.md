@@ -20,6 +20,7 @@ Below is a summary list of the official Azure OpenAI IP/reusable assets:
 
 <br/>
 
+### Microsoft Community Contributions
 Below is a summary list of the  Azure OpenAI Microsoft Community Contributions:
 <br/>
 
