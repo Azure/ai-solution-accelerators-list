@@ -61,4 +61,4 @@ Below is a summary list of some learning resources:
 
 <br/>
 
-**Note*: If you are a Microsoft employee and would like to add an asset to this list, please contact the Specialized AI CSA team.*
+**NOTE**: If you are a Microsoft employee and would like to add an asset to this list, please contact the Specialized AI CSA team.
