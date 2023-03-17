@@ -4,6 +4,8 @@ The following is a list of Repeatable IP and learning resources to quickly build
 
 ## Accelerators
 
+### Official Azure OpenAI IP/reusable assets
+
 Below is a summary list of the official Azure OpenAI IP/reusable assets:
 <br/>
 
