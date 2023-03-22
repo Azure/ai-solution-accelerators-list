@@ -42,8 +42,6 @@ Below is a summary list of the  Azure OpenAI Microsoft Community Contributions:
 
 <br/>
 
-You may also want to check the [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-
 <br/>
 
 **NOTE**: Please make sure to check the terms of use for each. Some are only provided for demonstration purposes and not mean for as-is production use.
